@@ -46,7 +46,7 @@ jobs:
 
       with:
 
-        name: OverlayManager_dbg_apk
+        name: Samsungify
 
         path: app/build/outputs/apk/debug/*.apk
 
