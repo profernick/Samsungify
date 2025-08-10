@@ -1,3 +1,5 @@
+# Please read!!!
+This fork was created without any code changes and to try to build artifacts a github action
 # Samsungify
 LSPosed / EdXposed module to use Samsung apps on custom roms and non-Samsung devices
  
